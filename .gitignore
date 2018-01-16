@@ -1,0 +1,14 @@
+*~
+*.pdf
+*.ps
+*.log
+*.aux
+*.dvi
+*.nav
+*.out
+*.toc
+*.vrb
+*.snm
+*.eps
+*.dat
+supply.tex
